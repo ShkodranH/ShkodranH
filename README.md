@@ -1,5 +1,6 @@
-### Hi there 👋
+### Hi I'm Shkodi
 
+I'm currently working on developing some easy games with vanilla Javascript and learning game development in the process
 <!--
 **ShkodranH/ShkodranH** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
