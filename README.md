@@ -12,8 +12,9 @@ I'm a front-end web developer (Angular-Typescript) currently working on developi
 
 
 ### Reach Me
-
-
+- Linkedin:
+- Github:
+- Email:
 
 
 <!--
