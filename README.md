@@ -18,6 +18,7 @@ I'm a front-end web developer (Angular-Typescript) currently working on developi
 - Email:
 
 
+
 <!--
 **ShkodranH/ShkodranH** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
