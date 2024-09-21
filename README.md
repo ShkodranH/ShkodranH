@@ -10,6 +10,7 @@ I'm a front-end web developer (Angular-Typescript) currently working on developi
 - C#/Python
 - .NET/Node.js
 
+- Unity
 
 ### Reach Me
 
