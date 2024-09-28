@@ -12,6 +12,8 @@ I'm a front-end web developer (Angular-Typescript) currently working on developi
 
 - Unity
 
+---
+
 ### Reach Me
 
 - Linkedin:
