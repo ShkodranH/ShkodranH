@@ -1,6 +1,6 @@
 # Hi I'm Shkodi
 
-I'm a front-end web developer (Angular-Typescript) currently working on developing some easy games with vanilla Javascript and learning game development in the process.
+I'm a front-end web developer (Angular-Typescript) & Game developer currently working on developing some easy games with vanilla Javascript and learning game development in the process.
 
 ### My Skills
 
